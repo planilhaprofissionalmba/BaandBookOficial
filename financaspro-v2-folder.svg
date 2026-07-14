@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="DejaVu Sans">
+
+<!-- ===== FUNDO ===== -->
+<rect width="1080" height="1920" fill="#F8F9FA"/>
+<rect x="0" y="0" width="1080" height="580" fill="#ECE4BB"/>
+<rect x="0" y="577" width="1080" height="4" fill="#CAB77D"/>
+
+<!-- ===== CABEÇALHO ===== -->
+<rect x="60" y="70" width="430" height="54" rx="27" fill="#184A4E"/>
+<text x="275" y="105" text-anchor="middle" font-size="20" font-weight="bold" fill="#ECE4BB" letter-spacing="1">APLICATIVO SAAS DE FINANÇAS</text>
+<text x="1020" y="105" text-anchor="end" font-size="20" fill="#184A4E">planilhaprofissional.com</text>
+
+<text x="60" y="215" font-size="76" font-weight="bold" fill="#184A4E">FINANÇASPRO</text>
+<rect x="672" y="150" width="106" height="72" rx="14" fill="#CAB77D"/>
+<text x="725" y="202" text-anchor="middle" font-size="44" font-weight="bold" fill="#184A4E">V2</text>
+
+<text x="60" y="295" font-size="34" font-weight="bold" fill="#184A4E">SUAS FINANÇAS SOB CONTROLE.</text>
+<text x="60" y="345" font-size="34" font-weight="bold" fill="#184A4E">SEUS DADOS EM <tspan fill="#A8894B">DECISÕES.</tspan></text>
+
+<rect x="60" y="382" width="6" height="108" fill="#CAB77D"/>
+<text x="90" y="412" font-size="24" fill="#184A4E">Do registro à decisão: organize, automatize</text>
+<text x="90" y="447" font-size="24" fill="#184A4E">e acompanhe suas finanças com tecnologia,</text>
+<text x="90" y="482" font-size="24" fill="#184A4E">dados e eficiência.</text>
+
+<!-- Selo circular -->
+<circle cx="915" cy="330" r="95" fill="#184A4E"/>
+<circle cx="915" cy="330" r="78" fill="none" stroke="#CAB77D" stroke-width="2"/>
+<rect x="893" y="288" width="12" height="22" fill="#CAB77D"/>
+<rect x="909" y="278" width="12" height="32" fill="#CAB77D"/>
+<rect x="925" y="268" width="12" height="42" fill="#CAB77D"/>
+<text x="915" y="345" text-anchor="middle" font-size="17" font-weight="bold" fill="#ECE4BB" letter-spacing="1">DO CONCEITO</text>
+<text x="915" y="372" text-anchor="middle" font-size="17" font-weight="bold" fill="#ECE4BB" letter-spacing="1">AO RESULTADO</text>
+
+<!-- ===== MOCKUP DO DASHBOARD ===== -->
+<rect x="60" y="630" width="960" height="470" rx="24" fill="#184A4E"/>
+<text x="100" y="692" font-size="26" font-weight="bold" fill="#ECE4BB">Visão Geral</text>
+<text x="980" y="692" text-anchor="end" font-size="18" fill="#9FA488">Este mês · atualizado agora</text>
+
+<!-- KPIs -->
+<rect x="100" y="720" width="206" height="110" rx="12" fill="#F8F9FA"/>
+<text x="118" y="752" font-size="14" font-weight="bold" fill="#9FA488" letter-spacing="1">FATURAMENTO</text>
+<text x="118" y="785" font-size="25" font-weight="bold" fill="#184A4E">R$ 250.450</text>
+<text x="118" y="812" font-size="16" font-weight="bold" fill="#A8894B">↑ 18,4%</text>
+
+<rect x="324" y="720" width="206" height="110" rx="12" fill="#F8F9FA"/>
+<text x="342" y="752" font-size="14" font-weight="bold" fill="#9FA488" letter-spacing="1">DESPESAS</text>
+<text x="342" y="785" font-size="25" font-weight="bold" fill="#184A4E">R$ 74.320</text>
+<text x="342" y="812" font-size="16" font-weight="bold" fill="#A8894B">↓ 21,3%</text>
+
+<rect x="548" y="720" width="206" height="110" rx="12" fill="#F8F9FA"/>
+<text x="566" y="752" font-size="14" font-weight="bold" fill="#9FA488" letter-spacing="1">LUCRO LÍQUIDO</text>
+<text x="566" y="785" font-size="25" font-weight="bold" fill="#184A4E">R$ 176.130</text>
+<text x="566" y="812" font-size="16" font-weight="bold" fill="#A8894B">↑ 25,3%</text>
+
+<rect x="772" y="720" width="206" height="110" rx="12" fill="#F8F9FA"/>
+<text x="790" y="752" font-size="14" font-weight="bold" fill="#9FA488" letter-spacing="1">MARGEM</text>
+<text x="790" y="785" font-size="25" font-weight="bold" fill="#184A4E">29,7%</text>
+<text x="790" y="812" font-size="16" font-weight="bold" fill="#A8894B">↑ 4,2 p.p.</text>
+
+<!-- Gráfico de barras -->
+<rect x="100" y="860" width="540" height="200" rx="12" fill="#F8F9FA"/>
+<text x="122" y="892" font-size="16" font-weight="bold" fill="#184A4E">Evolução do Faturamento</text>
+<rect x="128" y="1005" width="28" height="35" fill="#9FA488"/>
+<rect x="170" y="995" width="28" height="45" fill="#9FA488"/>
+<rect x="212" y="1000" width="28" height="40" fill="#9FA488"/>
+<rect x="254" y="985" width="28" height="55" fill="#9FA488"/>
+<rect x="296" y="970" width="28" height="70" fill="#9FA488"/>
+<rect x="338" y="975" width="28" height="65" fill="#9FA488"/>
+<rect x="380" y="955" width="28" height="85" fill="#9FA488"/>
+<rect x="422" y="940" width="28" height="100" fill="#9FA488"/>
+<rect x="464" y="945" width="28" height="95" fill="#9FA488"/>
+<rect x="506" y="925" width="28" height="115" fill="#9FA488"/>
+<rect x="548" y="915" width="28" height="125" fill="#9FA488"/>
+<rect x="590" y="905" width="28" height="135" fill="#CAB77D"/>
+
+<!-- Gráfico de rosca -->
+<rect x="660" y="860" width="320" height="200" rx="12" fill="#F8F9FA"/>
+<text x="682" y="892" font-size="16" font-weight="bold" fill="#184A4E">Distribuição</text>
+<path d="M762 975 L762 907 A68 68 0 0 1 801.97 1030.01 Z" fill="#9FA488"/>
+<path d="M762 975 L801.97 1030.01 A68 68 0 0 1 697.33 996.01 Z" fill="#184A4E"/>
+<path d="M762 975 L697.33 996.01 A68 68 0 0 1 722.03 919.99 Z" fill="#CAB77D"/>
+<path d="M762 975 L722.03 919.99 A68 68 0 0 1 762 907 Z" fill="#ECE4BB"/>
+<circle cx="762" cy="975" r="40" fill="#F8F9FA"/>
+<rect x="852" y="922" width="14" height="14" fill="#9FA488"/>
+<text x="874" y="934" font-size="14" fill="#184A4E">Receitas</text>
+<rect x="852" y="952" width="14" height="14" fill="#184A4E"/>
+<text x="874" y="964" font-size="14" fill="#184A4E">Custos fixos</text>
+<rect x="852" y="982" width="14" height="14" fill="#CAB77D"/>
+<text x="874" y="994" font-size="14" fill="#184A4E">Variáveis</text>
+<rect x="852" y="1012" width="14" height="14" fill="#ECE4BB" stroke="#9FA488" stroke-width="1"/>
+<text x="874" y="1024" font-size="14" fill="#184A4E">Outros</text>
+
+<text x="540" y="1140" text-anchor="middle" font-size="20" font-style="italic" fill="#184A4E">Seus números em tempo real — no computador ou no celular.</text>
+
+<!-- ===== O QUE VOCÊ ENCONTRA ===== -->
+<line x1="60" y1="1185" x2="320" y2="1185" stroke="#CAB77D" stroke-width="2"/>
+<text x="540" y="1193" text-anchor="middle" font-size="26" font-weight="bold" fill="#184A4E" letter-spacing="2">O QUE VOCÊ ENCONTRA</text>
+<line x1="760" y1="1185" x2="1020" y2="1185" stroke="#CAB77D" stroke-width="2"/>
+
+<!-- Card 1 -->
+<rect x="60" y="1220" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="110" cy="1276" r="26" fill="#ECE4BB"/>
+<rect x="99" y="1276" width="7" height="12" fill="#184A4E"/>
+<rect x="108" y="1270" width="7" height="18" fill="#184A4E"/>
+<rect x="117" y="1263" width="7" height="25" fill="#184A4E"/>
+<text x="155" y="1268" font-size="22" font-weight="bold" fill="#184A4E">Visão geral em tempo real</text>
+<text x="155" y="1300" font-size="17" fill="#5A5F52">Faturamento, despesas, lucro e margem.</text>
+
+<!-- Card 2 -->
+<rect x="555" y="1220" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="605" cy="1276" r="26" fill="#ECE4BB"/>
+<rect x="594" y="1265" width="22" height="22" rx="4" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="605" y1="1258" x2="605" y2="1265" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="605" y1="1287" x2="605" y2="1294" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="587" y1="1276" x2="594" y2="1276" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="616" y1="1276" x2="623" y2="1276" stroke="#184A4E" stroke-width="2.5"/>
+<circle cx="605" cy="1276" r="3.5" fill="#184A4E"/>
+<text x="650" y="1268" font-size="22" font-weight="bold" fill="#184A4E">Automação com IA</text>
+<text x="650" y="1300" font-size="17" fill="#5A5F52">Lançamentos e insights inteligentes.</text>
+
+<!-- Card 3 -->
+<rect x="60" y="1350" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="110" cy="1406" r="26" fill="#ECE4BB"/>
+<rect x="96" y="1394" width="28" height="26" rx="4" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="96" y1="1402" x2="124" y2="1402" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="103" y1="1390" x2="103" y2="1396" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="117" y1="1390" x2="117" y2="1396" stroke="#184A4E" stroke-width="2.5"/>
+<text x="155" y="1398" font-size="22" font-weight="bold" fill="#184A4E">Contas a pagar e receber</text>
+<text x="155" y="1430" font-size="17" fill="#5A5F52">Nada vence sem você ficar sabendo.</text>
+
+<!-- Card 4 -->
+<rect x="555" y="1350" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="605" cy="1406" r="26" fill="#ECE4BB"/>
+<circle cx="605" cy="1406" r="14" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<circle cx="605" cy="1406" r="7" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<circle cx="605" cy="1406" r="2.5" fill="#184A4E"/>
+<text x="650" y="1398" font-size="22" font-weight="bold" fill="#184A4E">Metas e alertas</text>
+<text x="650" y="1430" font-size="17" fill="#5A5F52">Objetivos acompanhados mês a mês.</text>
+
+<!-- Card 5 -->
+<rect x="60" y="1480" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="110" cy="1536" r="26" fill="#ECE4BB"/>
+<rect x="98" y="1521" width="24" height="30" rx="3" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="104" y1="1531" x2="116" y2="1531" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="104" y1="1538" x2="116" y2="1538" stroke="#184A4E" stroke-width="2.5"/>
+<line x1="104" y1="1545" x2="112" y2="1545" stroke="#184A4E" stroke-width="2.5"/>
+<text x="155" y="1528" font-size="22" font-weight="bold" fill="#184A4E">Relatórios prontos</text>
+<text x="155" y="1560" font-size="17" fill="#5A5F52">Decisões baseadas em dados reais.</text>
+
+<!-- Card 6 -->
+<rect x="555" y="1480" width="465" height="112" rx="16" fill="#FFFFFF" stroke="#ECE4BB" stroke-width="2"/>
+<circle cx="605" cy="1536" r="26" fill="#ECE4BB"/>
+<path d="M605 1520 L618 1526 L618 1537 C618 1546 605 1552 605 1552 C605 1552 592 1546 592 1537 L592 1526 Z" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<path d="M599 1535 L604 1540 L612 1530" fill="none" stroke="#184A4E" stroke-width="2.5"/>
+<text x="650" y="1528" font-size="22" font-weight="bold" fill="#184A4E">Seguro e na nuvem</text>
+<text x="650" y="1560" font-size="17" fill="#5A5F52">Dados protegidos, acesso onde estiver.</text>
+
+<!-- ===== COMO FUNCIONA ===== -->
+<line x1="60" y1="1640" x2="380" y2="1640" stroke="#CAB77D" stroke-width="2"/>
+<text x="540" y="1648" text-anchor="middle" font-size="22" font-weight="bold" fill="#184A4E" letter-spacing="2">COMO FUNCIONA</text>
+<line x1="700" y1="1640" x2="1020" y2="1640" stroke="#CAB77D" stroke-width="2"/>
+
+<circle cx="180" cy="1690" r="24" fill="#CAB77D"/>
+<text x="180" y="1699" text-anchor="middle" font-size="22" font-weight="bold" fill="#184A4E">1</text>
+<text x="180" y="1737" text-anchor="middle" font-size="18" font-weight="bold" fill="#184A4E">Cadastre-se</text>
+<text x="180" y="1759" text-anchor="middle" font-size="14" fill="#5A5F52">em minutos</text>
+
+<text x="300" y="1698" text-anchor="middle" font-size="26" fill="#CAB77D">→</text>
+
+<circle cx="420" cy="1690" r="24" fill="#CAB77D"/>
+<text x="420" y="1699" text-anchor="middle" font-size="22" font-weight="bold" fill="#184A4E">2</text>
+<text x="420" y="1737" text-anchor="middle" font-size="18" font-weight="bold" fill="#184A4E">Registre</text>
+<text x="420" y="1759" text-anchor="middle" font-size="14" fill="#5A5F52">seus lançamentos</text>
+
+<text x="540" y="1698" text-anchor="middle" font-size="26" fill="#CAB77D">→</text>
+
+<circle cx="660" cy="1690" r="24" fill="#CAB77D"/>
+<text x="660" y="1699" text-anchor="middle" font-size="22" font-weight="bold" fill="#184A4E">3</text>
+<text x="660" y="1737" text-anchor="middle" font-size="18" font-weight="bold" fill="#184A4E">Acompanhe</text>
+<text x="660" y="1759" text-anchor="middle" font-size="14" fill="#5A5F52">o dashboard</text>
+
+<text x="780" y="1698" text-anchor="middle" font-size="26" fill="#CAB77D">→</text>
+
+<circle cx="900" cy="1690" r="24" fill="#CAB77D"/>
+<text x="900" y="1699" text-anchor="middle" font-size="22" font-weight="bold" fill="#184A4E">4</text>
+<text x="900" y="1737" text-anchor="middle" font-size="18" font-weight="bold" fill="#184A4E">Decida</text>
+<text x="900" y="1759" text-anchor="middle" font-size="14" fill="#5A5F52">com clareza</text>
+
+<!-- ===== FAIXA CTA ===== -->
+<rect x="0" y="1790" width="1080" height="130" fill="#184A4E"/>
+<rect x="0" y="1790" width="1080" height="4" fill="#CAB77D"/>
+
+<circle cx="130" cy="1855" r="36" fill="none" stroke="#CAB77D" stroke-width="4"/>
+<circle cx="117" cy="1855" r="4" fill="#CAB77D"/>
+<circle cx="130" cy="1855" r="4" fill="#CAB77D"/>
+<circle cx="143" cy="1855" r="4" fill="#CAB77D"/>
+<path d="M106 1878 L92 1898 L122 1889 Z" fill="#CAB77D"/>
+
+<text x="200" y="1836" font-size="24" font-weight="bold" fill="#ECE4BB">VAMOS TRANSFORMAR SUAS FINANÇAS?</text>
+<text x="200" y="1866" font-size="18" font-weight="bold" fill="#CAB77D" letter-spacing="1">FALE COMIGO VIA WHATSAPP</text>
+<text x="200" y="1904" font-size="36" font-weight="bold" fill="#F8F9FA">+55 66 99238 8026</text>
+
+<text x="1020" y="1856" text-anchor="end" font-size="18" fill="#9FA488">Atendimento rápido</text>
+<text x="1020" y="1880" text-anchor="end" font-size="18" fill="#9FA488">e personalizado!</text>
+
+</svg>
